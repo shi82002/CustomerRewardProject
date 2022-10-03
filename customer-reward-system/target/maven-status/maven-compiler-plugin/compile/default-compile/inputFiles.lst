@@ -1,0 +1,10 @@
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/payload/response/CustomerRewards.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/util/RewardPointsCalculator.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/CustomerRewardSystemApplication.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/payload/request/CustomerRewardsRequest.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/payload/request/Transaction.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/service/RewardsServiceImpl.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/controller/CustomerRewardsController.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/service/RewardsService.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/payload/response/CustomerRewardsResponse.java
+/Users/shishirn/git/customer-rewards-system/customer-reward-system/src/main/java/com/example/customerrewardsystem/payload/response/MonthlyRewards.java

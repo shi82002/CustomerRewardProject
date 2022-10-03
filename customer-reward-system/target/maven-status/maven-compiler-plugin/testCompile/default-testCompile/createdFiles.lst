@@ -1,0 +1,4 @@
+com/example/customerrewardsystem/util/RewardPointsCalculatorTest.class
+com/example/customerrewardsystem/controller/CustomerRewardsControllerTest.class
+com/example/customerrewardsystem/service/RewardsServiceImplTest.class
+com/example/customerrewardsystem/CustomerRewardSystemApplicationTests.class
